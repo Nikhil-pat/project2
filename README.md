@@ -1,3 +1,3 @@
 # new project
+new js
 
-this is my second repo
